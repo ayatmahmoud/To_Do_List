@@ -17,7 +17,8 @@ This is a simple task management web application built using Flask. It allows us
 2. **Access the application in your web browser:**
    Open `http://127.0.0.1:5000/` in your browser.
 
-3.![Uploading To-Do List - Google Chrome 8_31_2024 4_09_22 AM.png…]()
+3.  ![Uploading To-Do List - Google Chrome 8_31_2024 4_09_22 AM.png…]()
+
 
 
 ## Project Structure
